@@ -1,1 +1,1 @@
-![Tara] (/home/tarabyte/Downloads/ysLBmV8o_400x400.jpg)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
