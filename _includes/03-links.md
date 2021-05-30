@@ -1,1 +1,1 @@
-[GitHub] (https://github.com/TaraByte79)
+[GitHub](https://github.com/TaraByte79)
